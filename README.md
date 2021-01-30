@@ -31,7 +31,9 @@ make
 ## Authors
 
 Alexis Jamal
+
 Cyril Reymond [@cyreymond](https://github.com/creymond?tab=repositories)
+
 Ali Zahidi
 
 ## License
